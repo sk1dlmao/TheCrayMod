@@ -6,7 +6,7 @@ import net.minecraft.item.ItemStack;
 import techyydata.tcm.Reference;
 
 public class TMTab {
-    public static CreativeTabs templateTab = new CreativeTabs(Reference.MOD_ID) {
+    public static CreativeTabs craymodTab = new CreativeTabs(Reference.MOD_ID) {
         @Override
         public ItemStack getTabIconItem() {
             return new ItemStack(Items.STICK);

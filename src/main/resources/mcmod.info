@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tcm",
+  "name": "The Cray Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JacksonPlayz", "TechyyData"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "parent": ""
+}
+]
